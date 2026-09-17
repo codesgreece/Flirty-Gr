@@ -7,7 +7,7 @@
   "rewrites": [
     {
       "source": "/chat/:id",
-      "destination": "/"
+      "destination": "/chat/[id].html"
     }
   ]
 }
